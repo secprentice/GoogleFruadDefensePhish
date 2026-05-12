@@ -1,10 +1,8 @@
 # GoogleFruadDefensePhish
 
-# GoogleFruadDefensePhish
-
 In the near future, Google might train the world at large to scan QR codes to access websites. 
 
-![[3_-_blog_-_qr_code.max-1900x1900.png]]
+![[[3_-_blog_-_qr_code.max-1900x1900.png](https://github.com/secprentice/GoogleFruadDefensePhish/blob/main/3_-_blog_-_qr_code.max-1900x1900.png)]]
 
 This repo contains a basic phishing landing page which mimics Googles QR pop-up to misdirect targets to an attacker controlled webpage. 
 
